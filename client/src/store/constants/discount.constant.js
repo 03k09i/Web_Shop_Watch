@@ -1,0 +1,7 @@
+export const ADD_DISCOUNT="ADD_DISCOUNT";
+export const DELETE_DISCOUNT="DELETE_DISCOUNT";
+export const FIX_DISCOUNT="FIX_DISCOUNT";
+
+
+
+
